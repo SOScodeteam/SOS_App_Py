@@ -1,0 +1,5 @@
+TODO: 
+    Fix session management / authentication
+    Migrate session management to Firebase
+    Implement feedback submission
+    Implement feedback viewing
